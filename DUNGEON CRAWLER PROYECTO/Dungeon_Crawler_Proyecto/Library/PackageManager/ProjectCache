@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/alexgamerh3k4/Desktop/Repositorio Unity/Dungeon Crawler/DUNGEON CRAWLER PROYECTO/Dungeon_Crawler_Proyecto/Packages/manifest.json
+    m_FilePath: C:/Users/alexgamerh3k4/Desktop/Repositorio Unity/REPOSITORIO/DUNGEON CRAWLER PROYECTO/Dungeon_Crawler_Proyecto/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639276508511102055
-    m_Hash: 4186109524
+      ticks: 639276558562204925
+    m_Hash: 2290049356
   m_LockFileStatus:
-    m_FilePath: C:/Users/alexgamerh3k4/Desktop/Repositorio Unity/Dungeon Crawler/DUNGEON CRAWLER PROYECTO/Dungeon_Crawler_Proyecto/Packages/packages-lock.json
+    m_FilePath: C:/Users/alexgamerh3k4/Desktop/Repositorio Unity/REPOSITORIO/DUNGEON CRAWLER PROYECTO/Dungeon_Crawler_Proyecto/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639276508863807441
-    m_Hash: 324712624
+      ticks: 639276558562254951
+    m_Hash: 3702961707
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/alexgamerh3k4/Desktop/Repositorio Unity/Dungeon Crawler/DUNGEON CRAWLER PROYECTO/Dungeon_Crawler_Proyecto/Packages
+m_ProjectPath: C:/Users/alexgamerh3k4/Desktop/Repositorio Unity/REPOSITORIO/DUNGEON CRAWLER PROYECTO/Dungeon_Crawler_Proyecto/Packages
 m_EditorVersion: 6000.6.0f1 (f7f8ed4d1e24)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@2.0.14
@@ -28,7 +28,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.0.14
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ai.navigation@134dd6a3b97b
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -163,13 +163,137 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.cinemachine@6.6.0
+  testable: 0
+  isDirectDependency: 1
+  isInstalled: 1
+  version: 6.6.0
+  source: 2
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.cinemachine@f53aa49b3acc
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nCinemachine 3 is a newer and better version of Cinemachine, but upgrading an existing project from 2.X will likely require some effort.  If you're considering upgrading an older project, please see our upgrade guide in the user manual."
+  errors: []
+  versions:
+    all:
+    - 6.6.0
+    compatible:
+    - 6.6.0
+    recommended: 6.6.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.splines
+    version: 2.8.4
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.splines
+    version: 2.9.0
+  - name: com.unity.mathematics
+    version: 1.4.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.1
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    isUnityRegistry: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 6.6.0
+    nextVersion: 
+    recommendedVersion: 3.1.0
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  signature:
+    status: 0
+    reason: 
+    attestation:
+      format: 
+      publishingChannel: 
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+      artifactType: 0
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: f53aa49b3acc964ce8914671cef989414b1f26c8
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 6.6.0
+    minimumUnityVersion: 
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.collab-proxy@2.13.6
   testable: 0
   isDirectDependency: 1
   isInstalled: 1
   version: 2.13.6
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.collab-proxy@4628d2ba6ea4
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.collab-proxy@4628d2ba6ea4
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -366,7 +490,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.0.38
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ide.rider@1f60b3138684
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ide.rider@1f60b3138684
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -514,7 +638,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.0.26
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -644,7 +768,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.20.0
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -816,13 +940,224 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.probuilder@6.1.3
+  testable: 0
+  isDirectDependency: 1
+  isInstalled: 1
+  version: 6.1.3
+  source: 1
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.probuilder@48aa4279218a
+  assetPath: Packages/com.unity.probuilder
+  name: com.unity.probuilder
+  displayName: ProBuilder
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'Build, edit, and texture custom geometry in Unity. Use ProBuilder for in-scene level design, prototyping, collision meshes, all with on-the-fly play-testing.
+
+
+    Advanced features include UV editing, vertex colors, parametric shapes, and texture blending. With ProBuilder''s model export feature it''s easy to tweak your levels in any external 3D modelling suite.'
+  errors: []
+  versions:
+    all:
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.0.6
+    - 3.0.8
+    - 3.0.9
+    - 3.10.1
+    - 4.0.2
+    - 4.0.3
+    - 4.0.4
+    - 4.0.5
+    - 4.1.0
+    - 4.1.2
+    - 4.2.1
+    - 4.2.2-preview.1
+    - 4.2.2-preview.2
+    - 4.2.3
+    - 4.2.4-preview.0
+    - 4.3.0-preview.0
+    - 4.3.0-preview.1
+    - 4.3.0-preview.2
+    - 4.3.0-preview.4
+    - 4.3.0-preview.6
+    - 4.3.0-preview.7
+    - 4.3.0-preview.8
+    - 4.3.0-preview.9
+    - 4.3.1
+    - 4.4.0-preview.1
+    - 4.4.0
+    - 4.5.0
+    - 4.5.2
+    - 5.0.0-pre.7
+    - 5.0.0-pre.10
+    - 5.0.1
+    - 5.0.3
+    - 5.0.4
+    - 5.0.6
+    - 5.0.7
+    - 5.1.0
+    - 5.1.1
+    - 5.2.0
+    - 5.2.2
+    - 5.2.3
+    - 5.2.4
+    - 6.0.1-pre.1
+    - 6.0.1-pre.2
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 6.0.7
+    - 6.0.8
+    - 6.0.9
+    - 6.1.0
+    - 6.1.1
+    - 6.1.2
+    - 6.1.3
+    compatible:
+    - 6.1.2
+    - 6.1.3
+    recommended: 6.1.3
+    deprecated: []
+  dependencies:
+  - name: com.unity.shadergraph
+    version: 17.0.3
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  resolvedDependencies:
+  - name: com.unity.shadergraph
+    version: 17.6.0
+  - name: com.unity.render-pipelines.core
+    version: 17.6.0
+  - name: com.unity.burst
+    version: 2.0.0
+  - name: com.unity.collections
+    version: 6.6.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.6
+  - name: com.unity.test-framework
+    version: 1.8.0
+  - name: com.unity.ext.nunit
+    version: 2.1.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 6.6.0
+  - name: com.unity.profiling.core
+    version: 1.0.3
+  - name: com.unity.searcher
+    version: 4.9.5
+  - name: com.unity.graph-authoring
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.1
+  keywords:
+  - 3d
+  - model
+  - mesh
+  - modeling
+  - geometry
+  - shape
+  - cube
+  - blender
+  - max
+  - maya
+  - fbx
+  - obj
+  - level
+  - design
+  - block
+  - greybox
+  - graybox
+  - whitebox
+  - prototype
+  - probuilder
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    isUnityRegistry: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639270783755310000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.probuilder@6.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.probuilder.git
+    revision: f4ea0762d95b7522503bee8b244df0a868984180
+    path: 
+  unityLifecycle:
+    version: 6.1.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n\n- [UUM-155018] Fixed rect selection in URP not selecting any vertices, edges or faces when Select Hidden is disabled.\n- [UUM-149791] Fixed the First Vertex pivot ending up offset from the shape after resizing an existing shape or shift-duplicating one with the Shape tool.\n- [UUM-148935] Fixed `VectorHash`/`IntVec2`/`IntVec3`/`IntVec4` producing different hash codes on different runtimes and architectures (e.g. Mono vs CoreCLR), and fixed a `GetHashCode` contract violation where positions considered equal by `IntVec3.Equals` could still hash differently, silently breaking vertex welding.\n- [UUM-150702] Fixed the ProBuilderDefault and Checker materials referencing a stale shader ID, causing ProBuilder meshes to render magenta when a scene was opened.\n- [UUM-148237] Fixed the \"Lightmap UVs Settings\" foldout in ProBuilder Preferences not opening when clicking its title.\n- [UUM-133528] Fixed an issue where using some UV Editor actions would clear a mesh''s Lightmap UVs without regenerating them.\n- [UUM-148243] Fixed the Dimensions Overlay not updating when resizing a PolyShape or primitive Shape in the Scene View.\n- Fixed the Select Hidden (Select Back Faces) toggle icon missing from the Tool Settings overlay due to a filename casing mismatch.\n\n### Changes\n\n- Made the ProBuilder Editor actions available in GameObject context in the action overlay.\n- Replaced the `ProBuilder/Diffuse Vertex Color` and `ProBuilder/Diffuse Texture Blend` surface shaders with Shader Graph equivalents."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+      artifactType: 0
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 48aa4279218abdc11e64a5a62bd8b45d6746f1cb
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 6.1.2
+    minimumUnityVersion: 6000.0
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.render-pipelines.universal@17.6.0
   testable: 0
   isDirectDependency: 1
   isInstalled: 1
   version: 17.6.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.render-pipelines.universal@8457e85b8184
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.render-pipelines.universal@8457e85b8184
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -952,7 +1287,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.8.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.test-framework@7a3849e09bd0
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.test-framework@7a3849e09bd0
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1056,7 +1391,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.timeline@281d5f7e7d7d
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.timeline@281d5f7e7d7d
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1167,7 +1502,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.6.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ugui@23caec89ae27
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ugui@23caec89ae27
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: uGUI
@@ -1288,7 +1623,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.9.12
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.visualscripting@4edfcc09512f
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.visualscripting@4edfcc09512f
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1433,7 +1768,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.accessibility
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.accessibility
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -1523,7 +1858,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.adaptiveperformance
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.adaptiveperformance
   assetPath: Packages/com.unity.modules.adaptiveperformance
   name: com.unity.modules.adaptiveperformance
   displayName: Adaptive Performance
@@ -1619,7 +1954,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.ai
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.ai
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1709,7 +2044,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.androidjni
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.androidjni
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1803,7 +2138,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.animation
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.animation
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1893,7 +2228,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.assetbundle
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.assetbundle
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1983,7 +2318,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.audio
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.audio
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2073,7 +2408,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.cloth
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.cloth
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2167,7 +2502,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.director
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.director
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2265,7 +2600,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.imageconversion
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.imageconversion
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2355,7 +2690,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.imgui
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.imgui
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2445,7 +2780,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.jsonserialize
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.jsonserialize
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2535,7 +2870,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.particlesystem
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.particlesystem
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2625,7 +2960,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.physics
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.physics
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2715,7 +3050,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.physics2d
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.physics2d
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2809,7 +3144,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.physicscore2d
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.physicscore2d
   assetPath: Packages/com.unity.modules.physicscore2d
   name: com.unity.modules.physicscore2d
   displayName: Physics Core 2D
@@ -2899,7 +3234,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.screencapture
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.screencapture
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2993,7 +3328,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.terrain
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.terrain
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -3083,7 +3418,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.terrainphysics
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.terrainphysics
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -3181,7 +3516,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.tetgen
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.tetgen
   assetPath: Packages/com.unity.modules.tetgen
   name: com.unity.modules.tetgen
   displayName: Tetgen
@@ -3271,7 +3606,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.tilemap
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.tilemap
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -3367,7 +3702,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.timelinefoundation
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.timelinefoundation
   assetPath: Packages/com.unity.modules.timelinefoundation
   name: com.unity.modules.timelinefoundation
   displayName: Timeline Foundation
@@ -3461,7 +3796,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.ui
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.ui
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -3551,7 +3886,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.uielements
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.uielements
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -3665,7 +4000,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.umbra
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.umbra
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -3755,7 +4090,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unityanalytics
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unityanalytics
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -3853,7 +4188,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequest
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequest
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3943,7 +4278,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -4041,7 +4376,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequestaudio
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequestaudio
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -4139,7 +4474,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequesttexture
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequesttexture
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -4237,7 +4572,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequestwww
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.unitywebrequestwww
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -4351,7 +4686,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.vectorgraphics
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.vectorgraphics
   assetPath: Packages/com.unity.modules.vectorgraphics
   name: com.unity.modules.vectorgraphics
   displayName: Vector Graphics
@@ -4463,7 +4798,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.vehicles
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.vehicles
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -4557,7 +4892,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.video
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.video
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -4659,7 +4994,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.wind
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.wind
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -4749,7 +5084,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.xr
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.xr
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -4851,7 +5186,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.subsystems
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.subsystems
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -4945,7 +5280,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.hierarchycore
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.modules.hierarchycore
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -5035,7 +5370,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.1.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -5128,7 +5463,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.6.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.render-pipelines.core@2d66c71e606e
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.render-pipelines.core@2d66c71e606e
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -5244,7 +5579,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.6.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.shadergraph@ef6135652377
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.shadergraph@ef6135652377
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -5364,7 +5699,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.6.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -5470,13 +5805,245 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.settings-manager@2.1.1
+  testable: 0
+  isDirectDependency: 0
+  isInstalled: 1
+  version: 2.1.1
+  source: 1
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.settings-manager@0b8638c5ce86
+  assetPath: Packages/com.unity.settings-manager
+  name: com.unity.settings-manager
+  displayName: Settings Manager
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: A framework for making any serializable field a setting, complete with a pre-built settings interface.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.4
+    - 0.1.0-preview.8
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 2.0.0
+    - 2.0.1
+    - 2.1.0
+    - 2.1.1
+    compatible:
+    - 2.1.1
+    recommended: 2.1.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    isUnityRegistry: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638956174685890000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.settings-manager@2.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.settings-manager.git
+    revision: 6eb5ed85eaf3276cc09f0cc4fc3311c72f0fc196
+    path: 
+  unityLifecycle:
+    version: 2.1.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 0
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Changes\n\n- Enable Auto Reference on main assembly.\n\n### Bug Fixes\n\n- [case: PBLD-56] Added tooltip to \"Options\" gear icon to specify that context menu items are relevant only to the selected category."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+      artifactType: 0
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 0b8638c5ce86009d785da17b17aaf629047f64ce
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.1.1
+    minimumUnityVersion: 2022.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.splines@2.9.0
+  testable: 0
+  isDirectDependency: 0
+  isInstalled: 1
+  version: 2.9.0
+  source: 1
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.splines@e6e1d5900acc
+  assetPath: Packages/com.unity.splines
+  name: com.unity.splines
+  displayName: Splines
+  author:
+    name: 
+    email: 
+    url: 
+  category: Tool
+  type: 
+  description: Work with curves and paths. Use the Splines package to generate objects and behaviors along paths, create trajectories, and draw shapes.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 1.0.0-pre.5
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0
+    - 1.0.1
+    - 2.0.0-pre.2
+    - 2.0.0-pre.4
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0
+    - 2.4.0
+    - 2.5.1
+    - 2.5.2
+    - 2.6.0
+    - 2.6.1
+    - 2.7.1
+    - 2.7.2
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.9.0
+    - 2.9.1
+    compatible:
+    - 2.9.0
+    - 2.9.1
+    recommended: 2.9.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.4.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.1
+  keywords:
+  - spline
+  - curve
+  - path
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    isUnityRegistry: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639166281918990000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.splines@2.9/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.splines.git
+    revision: f59e7348d89b74c5ec5cdde5a338dadf0bb83e0d
+    path: 
+  unityLifecycle:
+    version: 2.9.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Changed\n\n- [UUM-131058] Updated Splines to support Fast Enter Play Mode.\n\n### Fixed\n\n- [UUM-134040] Fixed incorrect interpolation results in the different SmoothStepFloat interpolators.\n- [UUM-141436] Fixed a bug where invalid values could be used in the element inspector overlay.\n- [UUM-134469] Fixed a bug where the SplineData properties would overflow in the Inspector.\n- [UUM-140764] Fixed a bug where Spline Extrude would not produce correct mesh if its index count surpassed the maximum value of UInt16."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+      artifactType: 0
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: e6e1d5900acccddb7bdd2b0c7882b5d9bb14da0c
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.9.0
+    minimumUnityVersion: 2022.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.searcher@4.9.5
   testable: 0
   isDirectDependency: 0
   isInstalled: 1
   version: 4.9.5
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.searcher@a463122f2c00
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.searcher@a463122f2c00
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -5586,7 +6153,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee
   assetPath: Packages/com.unity.graph-authoring
   name: com.unity.graph-authoring
   displayName: Graph Authoring
@@ -5676,7 +6243,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.burst@626e66ab421b
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.burst@626e66ab421b
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -5766,7 +6333,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.collections@10fff0607388
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.collections@10fff0607388
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5881,7 +6448,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.3
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.profiling.core@8a49f7027d06
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.profiling.core@8a49f7027d06
   assetPath: Packages/com.unity.profiling.core
   name: com.unity.profiling.core
   displayName: Unity Profiling Core API
@@ -5974,13 +6541,104 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.mathematics@1.4.0
+  testable: 0
+  isDirectDependency: 0
+  isInstalled: 1
+  version: 1.4.0
+  source: 2
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.mathematics@8306a64d0cd6
+  assetPath: Packages/com.unity.mathematics
+  name: com.unity.mathematics
+  displayName: Mathematics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'Note: The package is now empty and unnecessary, because it has been moved to a module. Formerly, it contained Unity''s C# SIMD math library providing vector types and math functions with a shader like syntax.'
+  errors: []
+  versions:
+    all:
+    - 1.4.0
+    compatible:
+    - 1.4.0
+    recommended: 1.4.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    isUnityRegistry: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.4.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  signature:
+    status: 0
+    reason: 
+    attestation:
+      format: 
+      publishingChannel: 
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+      artifactType: 0
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 8306a64d0cd683e2e50ce0d909c1f82e70f75669
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.4.0
+    minimumUnityVersion: 
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.nuget.mono-cecil@1.11.6
   testable: 0
   isDirectDependency: 0
   isInstalled: 1
   version: 1.11.6
   source: 1
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -6083,7 +6741,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.0
   source: 2
-  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\Dungeon Crawler\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.test-framework.performance@0a60b857a52e
+  resolvedPath: C:\Users\alexgamerh3k4\Desktop\Repositorio Unity\REPOSITORIO\DUNGEON CRAWLER PROYECTO\Dungeon_Crawler_Proyecto\Library\PackageCache\com.unity.test-framework.performance@0a60b857a52e
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API

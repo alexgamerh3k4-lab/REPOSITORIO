@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    float moveSpeed;
+    float moveSpeed = 10f;
     private CharacterController chController;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
 
         input = Vector3.ClampMagnitude(input, 1f);
         //6
-        chController.Move(input * Time.deltaTime);
+        chController.Move(targetVelocity * Time.deltaTime);
     }
 
     //Recoger el input--WASD//Joystick
